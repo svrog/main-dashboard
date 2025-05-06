@@ -1,0 +1,4 @@
+inputs={
+        "query": query,
+        "data": data
+    }

@@ -1,0 +1,8 @@
+crewai
+crewai_tools
+fastapi
+uvicorn
+pandas
+openpyxl  # for reading Excel files
+langchain
+python-dotenv  # if you plan to manage API keys or config
